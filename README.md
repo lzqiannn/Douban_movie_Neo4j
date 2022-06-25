@@ -8,4 +8,4 @@ final是Neo4j的database
 dbms.default_database=final.db
 
 效果图：
-![这是图片](/img/演示图片.jpg)
+![这是图片](/img/演示图片.jpg](https://github.com/lzqiannn/Douban_movie_Neo4j/tree/master/img))
