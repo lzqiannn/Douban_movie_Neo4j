@@ -3,7 +3,7 @@ final是Neo4j的database
 使用方法：
 修改conf/neo4j.conf文件，作如下修改：
 
-# The name of the default database
+#The name of the default database
 #dbms.default_database=neo4j
 dbms.default_database=final.db
 
