@@ -7,5 +7,6 @@ final是Neo4j的database
 #dbms.default_database=neo4j
 dbms.default_database=final.db
 
+# 效果图
 ![Image](img/屏幕截图.jpg)
 
